@@ -9,7 +9,7 @@ module.exports = {
   // Specify the output file containing our bundled code
   output: {
     path: path.join(__dirname, 'public'),
-    filename: 'media-management-bundle.js'
+    filename: 'shehzadsite-bundle.js'
   },
   optimization: {
     minimize: false
